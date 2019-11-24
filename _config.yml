@@ -109,9 +109,9 @@ analytics:
 author:
   name             : "Sukang, Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "내가 살아있다는건 \n그 무엇에게 \n관측되고 있다는것"
-  location         : "Somewhere"
-  email            :
+  bio              : "저장"
+  location         : "한국"
+  email            : "sukanglee@korea.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
