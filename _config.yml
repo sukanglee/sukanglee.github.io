@@ -20,7 +20,7 @@ title                    : "movement"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sukang, Lee"
-description              : "내가 살아있다는건 그 무엇에게 관측되고 있다는것"
+description              : "description"
 url                      : "https://sukanglee.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Sukang, Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "내가 살아있다는건 그 무엇에게 관측되고 있다는것"
   location         : "Somewhere"
   email            :
   links:
