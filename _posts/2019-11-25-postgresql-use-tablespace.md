@@ -12,7 +12,7 @@ chown postgres <tablespace_dir>
 chmod 744 <tablespace_dir>
 ```
 - postgresql 커맨드 상에서 테이블스페이스 생성
-```postgresql
+```sql
 CREATE TABLESPACE <tablespace_name> LOCATION '<tablespace_dir_absolutepath>'
 ```
 - postgresql 커맨드 상에서 테이블 생성 시 테이블스페이스 사용 설정
