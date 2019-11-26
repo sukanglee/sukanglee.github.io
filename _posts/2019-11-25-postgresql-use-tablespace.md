@@ -1,11 +1,4 @@
----
-title: "postgresql tablespace 사용하기"
-date: 2019-11-26 11:26:28 +0900
-categories: postgresql
----
-
-
-- 리눅스 커맨드 상에서 실제 디렉토리 만들기 & 권한 설정
+@ 리눅스 커맨드 상에서 실제 디렉토리 만들기 & 권한 설정
 ```python
 mkdir <tablespace_dir>
 chown postgres <tablespace_dir>
@@ -25,6 +18,14 @@ CREATE TABLE <table_name>(
 )TABLESPACE <tablespace_name>;
 ```
 
+
+
+
+---
+title: "postgresql tablespace 사용하기"
+date: 2019-11-26 11:26:28 +0900
+categories: postgresql
+---
 
 
 
