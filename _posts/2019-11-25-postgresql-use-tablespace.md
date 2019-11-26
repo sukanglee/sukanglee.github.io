@@ -6,7 +6,7 @@ categories: postgresql
 
 
 - 리눅스 커맨드 상에서 실제 디렉토리 만들기 & 권한 설정
-```ubuntu
+```python
 mkdir <tablespace_dir>
 chown postgres <tablespace_dir>
 chmod 744 <tablespace_dir>
