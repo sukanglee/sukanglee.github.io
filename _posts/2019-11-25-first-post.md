@@ -1,7 +1,7 @@
 ---
 title: "postgresql tablespace 사용하기"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+date: 2019-11-26 11:26:28 +0900
+categories: postgresql
 ---
 
 
