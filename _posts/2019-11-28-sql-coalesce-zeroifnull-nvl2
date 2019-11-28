@@ -1,0 +1,21 @@
+- COALESCE
+```python
+COALESCE('A','B')
+COALESCE(NULL, 'B', 'C')
+```
+
+첫번째 함수 결과는 A
+두번째 함수 결과는 B
+즉, COALESCE 함수는 NULL이 아닌 가장 첫 왼쪽 값
+
+- ZEROIFNULL
+```python
+ZEROIFNULL(열 이름)
+```
+해당 열에 NULL값을 0으로 치환하는 함수
+
+-NVL2
+```python
+NVL(열이름, 표현식1, 표현식2)
+```
+해당 열이 NULL이면 표현식2 리턴, NULL이 아니면 표현식1 리턴
