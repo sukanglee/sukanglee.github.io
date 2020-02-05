@@ -1,4 +1,4 @@
-'''python
+```python
 apt-get install r-base
 R --version
 
@@ -8,4 +8,4 @@ wget https://download2.rstudio.org/server/bionic/amd64/rstudio-server-1.2.5033-a
 
 gdebi rstudio-server-1.2.5033-amd64.deb
 rstudio-server status
-'''
+```
